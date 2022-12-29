@@ -1,0 +1,5 @@
+2022-12-20 20:23:02,169 [main] INFO 23JulyAutomation Framework - Open URL
+2022-12-20 20:23:02,218 [main] INFO 23JulyAutomation Framework - Enter Username
+2022-12-20 20:23:02,575 [main] INFO 23JulyAutomation Framework - Enter Password
+2022-12-20 20:23:02,709 [main] INFO 23JulyAutomation Framework - Click on login button
+2022-12-20 20:23:07,529 [main] INFO 23JulyAutomation Framework - Test case passed
